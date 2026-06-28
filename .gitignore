@@ -1,0 +1,23 @@
+# Python virtual environment — thousands of files, not needed
+venv/
+
+# Python cache files — auto-generated, not needed
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables — CONTAINS YOUR PASSWORDS, never push
+.env
+
+# SQLite database file (if you ever used it)
+*.db
+
+# Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# pytest cache
+.pytest_cache/
