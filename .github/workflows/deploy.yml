@@ -30,4 +30,3 @@ jobs:
             sudo systemctl restart todo &&
             echo "Deployment successful!"
           '
-EOF
